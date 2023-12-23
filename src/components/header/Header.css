@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap');
+a{
+    text-decoration: none;
+}
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    width: 100%;
+    /* border: 1px solid; */
+    height: 800px;
+    
+}
+.nav{
+    width: 100%;
+    height: 15%;
+    /* border: 1px solid; */
+    box-shadow: black ;
+    background-color: white;
+    box-shadow: 3px 3px 15px 1px rgba(0, 0, 0, 0.45);
+    
+}
+
+.navbar{
+    display: flex;
+    width: 90%;
+    height: 100%;
+    /* border: 1px solid; */
+    margin: 0 auto;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30%;
+    height: 100%;
+    /* border: 1px solid; */
+
+}
+
+.ullinks{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+    height: 100%;
+    /* border: 1px solid; */
+    
+}
+
+.Logo{
+    width: 20%;
+    height: 50%;
+    padding: 0 15px;
+}
+
+
+.ull{
+    width: 80%;
+    height: 100%;
+    /* border: 1px solid; */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+ul{
+   list-style: none;
+   display: flex;
+ 
+}
+
+li{
+    color: #22343D;
+    font-family: 'Sen', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 45px; /* 175% */
+    padding: 0 40px;
+}
+
+.h1{
+    color: #173A56;
+    font-family: 'Sen', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px; /* 93.333% */
+}
+
+.button1{
+    border-radius: 4px;
+    border: 1px solid #BCD0E5;
+    height: 43px;
+    flex-shrink: 0;
+    width: 102px;
+    color: #173A56;
+    font-family: 'Sen', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    background-color: none;
+}
+
+.button2{
+    width: 110px;
+    height: 43px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #02897A;
+    border: none;
+    color: #FFF;
+    font-family: 'Sen', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 15px;
+}
+
+.ikoncha{
+    margin-left: 30px;
+}
+
+.secondqism{
+    display: flex;
+    width: 80%;
+    height: 85%;
+    /* border: 1px solid; */
+    margin: 0 auto;
+}
+
+
+
+.immg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+    /* border: 1px solid; */
+}
+
+.hh1{
+    font-family: 'Sen', sans-serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px; /* 150% */
+    color: #22343D;
+    width: 527.021px;
+}
+
+.plar{
+    width: 465.976px;
+    height: 95px;
+    flex-shrink: 0;
+    color: #22343D;
+    font-family: 'Sen', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 155.556% */
+    margin-top: 15px;
+
+}
+.button3{
+    width: 178.048px;
+    flex-shrink: 0;
+    height: 53px;
+    border-radius: 4px;
+    background: #02897A;
+    color: #FFF;
+    font-family: 'Sen', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border: none;
+    margin-top: 45px;
+}
+
+.padding{
+    width: 50%;
+    height: 100%;
+    /* border: 1px solid; */
+}
+
+.yozuv{
+    padding: 170px 50px;
+   
+}
+
+.watch{
+    margin-left: 25px;
+}
